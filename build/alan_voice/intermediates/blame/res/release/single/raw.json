@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\AI-Radio-main\\build\\alan_voice\\intermediates\\res\\merged\\release\\raw\\voice_notification_offline.mp3",
+        "source": "C:\\Users\\satyendra\\.gradle\\caches\\transforms-2\\files-2.1\\8b60d0bf78acf74bd7f8989e3cb9e8f0\\sdk-4.7.17\\res\\raw\\voice_notification_offline.mp3"
+    },
+    {
+        "merged": "D:\\AI-Radio-main\\build\\alan_voice\\intermediates\\res\\merged\\release\\raw\\voice_notification_next.mp3",
+        "source": "C:\\Users\\satyendra\\.gradle\\caches\\transforms-2\\files-2.1\\8b60d0bf78acf74bd7f8989e3cb9e8f0\\sdk-4.7.17\\res\\raw\\voice_notification_next.mp3"
+    },
+    {
+        "merged": "D:\\AI-Radio-main\\build\\alan_voice\\intermediates\\res\\merged\\release\\raw\\voice_notification_off.mp3",
+        "source": "C:\\Users\\satyendra\\.gradle\\caches\\transforms-2\\files-2.1\\8b60d0bf78acf74bd7f8989e3cb9e8f0\\sdk-4.7.17\\res\\raw\\voice_notification_off.mp3"
+    },
+    {
+        "merged": "D:\\AI-Radio-main\\build\\alan_voice\\intermediates\\res\\merged\\release\\raw\\voice_notification_on.mp3",
+        "source": "C:\\Users\\satyendra\\.gradle\\caches\\transforms-2\\files-2.1\\8b60d0bf78acf74bd7f8989e3cb9e8f0\\sdk-4.7.17\\res\\raw\\voice_notification_on.mp3"
+    }
+]
