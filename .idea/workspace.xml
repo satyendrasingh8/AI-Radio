@@ -1,13 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="42a0fb60-cf47-4809-9ce3-277928222c17" name="Default Changelist" comment="" />
+    <list default="true" id="42a0fb60-cf47-4809-9ce3-277928222c17" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.dart_tool/flutter_build/76e0d103ce3ed3c7b4e67e303a7ea4a8/aot_android_asset_bundle.stamp" beforeDir="false" afterPath="$PROJECT_DIR$/.dart_tool/flutter_build/76e0d103ce3ed3c7b4e67e303a7ea4a8/aot_android_asset_bundle.stamp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/flutter_build/76e0d103ce3ed3c7b4e67e303a7ea4a8/flutter_assets.d" beforeDir="false" afterPath="$PROJECT_DIR$/.dart_tool/flutter_build/76e0d103ce3ed3c7b4e67e303a7ea4a8/flutter_assets.d" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.flutter-plugins-dependencies" beforeDir="false" afterPath="$PROJECT_DIR$/.flutter-plugins-dependencies" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/AI-Radio-main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/AI-Radio-main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/app/intermediates/flutter/release/flutter_build.d" beforeDir="false" afterPath="$PROJECT_DIR$/build/app/intermediates/flutter/release/flutter_build.d" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/app/reports/lint-results-release-fatal.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/app/reports/lint-results-release-fatal.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[]" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1ntTSfICMILpwNqpHB2SDGuhvyQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -46,21 +59,21 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="110" y="120" width="840" height="488" key="AVDManager/0.0.1366.728@0.0.1366.728" timestamp="1612209101417" />
-    <state width="980" height="163" key="GridCell.Tab.0.bottom" timestamp="1612208595448">
+    <state width="1306" height="176" key="GridCell.Tab.0.bottom" timestamp="1612210667897">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="980" height="163" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1612208595448" />
-    <state width="980" height="163" key="GridCell.Tab.0.center" timestamp="1612208595448">
+    <state width="1306" height="176" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1612210667897" />
+    <state width="1306" height="176" key="GridCell.Tab.0.center" timestamp="1612210667897">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="980" height="163" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1612208595448" />
-    <state width="980" height="163" key="GridCell.Tab.0.left" timestamp="1612208595447">
+    <state width="1306" height="176" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1612210667897" />
+    <state width="1306" height="176" key="GridCell.Tab.0.left" timestamp="1612210667897">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="980" height="163" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1612208595447" />
-    <state width="980" height="163" key="GridCell.Tab.0.right" timestamp="1612208595448">
+    <state width="1306" height="176" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1612210667897" />
+    <state width="1306" height="176" key="GridCell.Tab.0.right" timestamp="1612210667897">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="980" height="163" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1612208595448" />
+    <state width="1306" height="176" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1612210667897" />
   </component>
 </project>
